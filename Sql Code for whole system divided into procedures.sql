@@ -1,3 +1,4 @@
+--Description of each Procedure can be found in Milestone II file.
 ﻿CREATE DATABASE ShoppingSystem
 
 
